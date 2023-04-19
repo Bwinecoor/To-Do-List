@@ -117,3 +117,13 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+.body{
+    padding: 30px 40px;
+    border: 3px solid rgb(34, 34, 34);
+    color: rgb(226, 226, 226);
+    text-align: center;
+}
+.bodytext {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
